@@ -1,0 +1,43 @@
+/* ==UserStyle==
+@name        Dark Mode for Translit.net
+@namespace   dym-sh
+@version     1.0.1
+@homepageURL https://dym.sh/lab/dark-mode-for-translit
+@updateURL   https://dym.sh/lab/dark-mode-for-translit/style.user.css
+@license     MIT
+@author      dym-sh
+==/UserStyle== */
+
+@-moz-document domain("translit.net")
+{
+
+* { background : transparent !important
+  ; color : #bbb !important
+  }
+
+body
+, .bcharset
+  { background: #222 !important }
+
+ul#tTabCell li:nth-of-type(2n)
+  { background: #333 !important }
+
+input, button, select, textarea
+  { background: #333 !important
+  ; border: 1px solid #222 !important
+  }
+
+.tTextArea120, .tWzgBlock120
+  { padding-right : 0 !important }
+
+p
+, .tBottomContainer
+, .tLogoContainer
+, .tCookiesButtonA
+, .tAdvContainer
+, .tBoxAdv
+, .tBannerRight120
+, #placeholder
+  { display: none !important }
+
+}

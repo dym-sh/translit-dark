@@ -1,19 +1,24 @@
 # dark-mode-for-translit
 
-> <DESCRIPTION>
+> Dark Mode for Translit.net
 
 
-<a href='preview.png'><img height=100 border=2 align='right' alt='preview' src='preview.png'></a>
 ## preview
-- [preview.html](preview.html)
-- https://codepen.io/dym-sh/pen/<TBD>/left/?editors=0100
+![preview](preview.png)
+
+
+## install
+requires [Stylus](https://add0n.com/stylus.html) or similar
+
+- [style.user.css](./style.user.css)
+- https://userstyles.org/styles/164890/translit-net-dark
 
 
 ## mirrors
 - https://github.com/dym-sh/dark-mode-for-translit
 - https://gitlab.com/dym-sh/dark-mode-for-translit
 - https://dym.sh/lab/dark-mode-for-translit
-- hyper://<TBD> /[?](https://beakerbrowser.com)
+- hyper://76fd64feb68e16ee91602616b019ac94a7e4478014d2314ceba1ccece0c7fc9d /[?](https://beakerbrowser.com)
 
 
 ## license
