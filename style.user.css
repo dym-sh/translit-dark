@@ -1,11 +1,12 @@
 /* ==UserStyle==
-@name        Dark Mode for Translit.net
+@name        translit-dark
+@description Dark Mode for Translit.net
+@version     2020.11.19
 @namespace   dym-sh
-@version     1.0.1
-@homepageURL https://dym.sh/lab/dark-mode-for-translit
-@updateURL   https://dym.sh/lab/dark-mode-for-translit/style.user.css
-@license     MIT
 @author      dym-sh
+@homepageURL https://dym.sh/translit-dark
+@updateURL   https://dym.sh/translit-dark/style.user.css
+@license     MIT
 ==/UserStyle== */
 
 @-moz-document domain("translit.net")
